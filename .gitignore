@@ -1,0 +1,6 @@
+build
+build/
+src/test.cpp
+src/main.cpp
+input.txt
+output.txt

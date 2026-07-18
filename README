@@ -1,0 +1,5 @@
+init:
+  windows:
+    script: script/init_windows.ps1
+  linux:
+    script: script/init_linux.sh
