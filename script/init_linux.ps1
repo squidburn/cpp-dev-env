@@ -8,6 +8,8 @@ New-Item -ItemType Directory -Path "src" -Force
 # 创建空文件
 New-Item -ItemType File -Path "src/main.cpp" -Force
 New-Item -ItemType File -Path "src/test.cpp" -Force
+New-Item -ItemType File -Path "input.txt" -Force
+New-Item -ItemType File -Path "output.txt" -Force
 
 # 切换目录并执行 cmake
 Set-Location "build"
