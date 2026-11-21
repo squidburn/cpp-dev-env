@@ -74,7 +74,5 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp"
-    },
-    "Codegeex.RepoIndex": true,
-    "Codegeex.GenerationPreference": "automatic",
+    }
 }
