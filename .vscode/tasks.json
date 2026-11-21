@@ -14,6 +14,8 @@
                 "${workspaceFolder}/build/buildcpp",
                 "-O2",
                 "-std=c++14",
+                "-static",
+
                 //"-mwindows"
             ], // 编译命令参数
             "problemMatcher": {
